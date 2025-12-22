@@ -46,7 +46,7 @@ Windows Event Logs are a valuable source of information about system activities,
 - Understanding Security Event Logs
 - Filtering and Searching Event Logs
 - Analyzing Event Details
-- Advanced Log Analysis with Log Parser Studio
+- Advanced Log Analysis with Event Log Explorer
 
 ---
 
