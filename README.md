@@ -38,7 +38,7 @@ Syslog is a standard logging protocol used to collect and store log messages fro
 
 ---
 
-### 3. Analyzing Windows Event Logs for Security Incidents
+### 3. [Analyzing Windows Event Logs for Security Incidents](https://github.com/bala-soc/Log-Analysis-Projects/blob/main/3.%20Analyzing%20Windows%20Event%20Logs.md)
 Windows Event Logs are a valuable source of information about system activities, user actions, and potential security issues.
 
 **Key Focus Areas:**
@@ -50,7 +50,7 @@ Windows Event Logs are a valuable source of information about system activities,
 
 ---
 
-### 4. Log Analysis with ELK Stack 
+### 4. [Log Analysis with ELK Stack](https://github.com/bala-soc/Log-Analysis-Projects/blob/main/4.%20Log%20Analysis%20with%20ELK%20Stack.md)
 The ELK Stack consists of Elasticsearch (for storing and searching data), Logstash (for processing and ingesting data), and Kibana (for visualizing data).
 
 **Key Focus Areas:**
