@@ -14,7 +14,7 @@ These projects aim to provide a practical and comprehensive learning experience 
 
 ## 📁 Projects Included
 
-### 1. [Basic Apache Web Server Log Analysis](https://github.com/bala-soc/Log-Analysis-Projects/blob/main/1.%20Apache%20Web%20Server%20Log%20Analysis.md)
+### 1. [Apache Web Server Log Analysis](https://github.com/bala-soc/Log-Analysis-Projects/blob/main/1.%20Apache%20Web%20Server%20Log%20Analysis.md)
 Apache logs are a rich source of information about web traffic and can help identify potential security incidents, usage patterns, and performance issues.
 
 **Key Focus Areas:**
@@ -26,7 +26,7 @@ Apache logs are a rich source of information about web traffic and can help iden
 
 ---
 
-### 2. [Introduction to Syslog Analysis on Linux Systems](https://github.com/bala-soc/Log-Analysis-Projects/blob/main/2.%20Syslog%20Analysis%20on%20Linux%20Systems.md)
+### 2. [Syslog Analysis on Linux Systems](https://github.com/bala-soc/Log-Analysis-Projects/blob/main/2.%20Syslog%20Analysis%20on%20Linux%20Systems.md)
 Syslog is a standard logging protocol used to collect and store log messages from various system processes and applications.
 
 **Key Focus Areas:**
@@ -50,7 +50,7 @@ Windows Event Logs are a valuable source of information about system activities,
 
 ---
 
-### 4. Simple Log Analysis with ELK Stack 
+### 4. Log Analysis with ELK Stack 
 The ELK Stack consists of Elasticsearch (for storing and searching data), Logstash (for processing and ingesting data), and Kibana (for visualizing data).
 
 **Key Focus Areas:**
