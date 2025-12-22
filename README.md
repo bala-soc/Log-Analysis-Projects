@@ -62,7 +62,7 @@ The ELK Stack consists of Elasticsearch (for storing and searching data), Logsta
 
 ---
 
-### 5. Analyzing Windows Sysmon Events for Security Incidents
+### 5. [Analyzing Windows Sysmon Events for Security Incidents](https://github.com/bala-soc/Log-Analysis-Projects/blob/main/5.%20Analyzing%20Windows%20Sysmon%20Events%20for%20Security%20Incidents.md)
 
 **Key Focus Areas:**
 - Verify Sysmon Installation and Configuration
