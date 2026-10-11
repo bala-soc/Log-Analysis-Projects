@@ -1,9 +1,9 @@
 # Log Analysis Projects
 
 **Target role:** SOC Analyst L1  
-**Focus:** Windows and Linux logs • Endpoint telemetry • Authentication analysis • Basic SIEM workflows
+**Focus:** Event analysis • Authentication monitoring • Endpoint telemetry • SIEM fundamentals
 
-This repository collects exercises for inspecting and interpreting common security and system logs.
+A collection of log-analysis exercises covering web, Linux, Windows, and SIEM data sources.
 
 ## Project Index
 1. [Apache Web Server Log Analysis](https://github.com/bala-soc/Log-Analysis-Projects/blob/main/1.%20Apache%20Web%20Server%20Log%20Analysis.md)
@@ -12,17 +12,15 @@ This repository collects exercises for inspecting and interpreting common securi
 4. [Log Analysis with the ELK Stack](https://github.com/bala-soc/Log-Analysis-Projects/blob/main/4.%20Log%20Analysis%20with%20ELK%20Stack.md)
 5. [Windows Sysmon Event Analysis](https://github.com/bala-soc/Log-Analysis-Projects/blob/main/5.%20Analyzing%20Windows%20Sysmon%20Events%20for%20Security%20Incidents.md)
 
-## Skills Covered
-- Filtering events and extracting relevant fields
-- Reviewing failed and successful authentication activity
-- Examining process and network telemetry
-- Identifying unusual web requests or system behaviour for further investigation
-- Ingesting and searching logs with a SIEM stack
-
-## Interview-Ready Case Study Checklist
-Document the investigation question, operating environment, data provenance, commands or queries, sanitized evidence, timeline, analyst conclusion, potential false positives, and next steps. Distinguish actual observations from expected tutorial outcomes.
+## Investigation Workflow
+- Identify the question, source, and relevant time range.
+- Filter events and examine the fields available in the data.
+- Correlate authentication, process, network, and web activity where relevant.
+- Separate suspicious indicators from confirmed conclusions.
+- Document evidence, false-positive considerations, limitations, and next steps.
 
 ## Tools
-Windows Event Viewer, Sysmon, Linux syslog, Apache logs, Elasticsearch, Logstash, Kibana, and relevant command-line utilities.
+Windows Event Viewer, Sysmon, Linux syslog, Apache logs, Elasticsearch, Logstash, Kibana, and command-line utilities.
 
-> Use authorised systems and sample data. Redact usernames, hostnames, IP addresses, and other sensitive details in screenshots or log excerpts.
+## Safe Practice
+Use authorised systems and sample data. Redact usernames, hostnames, IP addresses, and other sensitive details before publishing log excerpts.
